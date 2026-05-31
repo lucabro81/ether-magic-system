@@ -1,6 +1,8 @@
 # The Lich — Lore Document
 
-*This document contains no combat mechanics. Not because the lich is "immune" to anything — but because the category of combat simply does not apply. What follows describes what a lich is, what its existence means in the world, and what kinds of experiences it generates in its surroundings.*
+*This document contains no combat mechanics. Not because the lich is "immune" to anything — but because the category of combat simply does not apply. What follows describes what a lich is, what its existence means in the world, and what kinds of experiences it generates in its surroundings.*  
+
+**This document exists for a specific reason:** to show how the system maintains its internal coherence even when faced with something that would seem to violate it. The lich is not an exception to the rules — it is an extreme consequence of them. A being that has taken the logic of the channel and equilibrium to the furthest physically possible limit, on a temporal and energetic scale that simply renders the category of "encounter" irrelevant. There is no stat block because a stat block is not needed. The system works — it's just that you are not the right tool to apply it.
 
 ---
 
